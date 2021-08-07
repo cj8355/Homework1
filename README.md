@@ -10,7 +10,10 @@ Horiseon Week 1 Homework assignement
 
 #Description
 
-    This assignment involved updating CSS code so that it was consolidated and followed semantic structure. Updating the links so that they function properly. Adding comments. Creating a new repository and uploading the updated code. Created a readme file.
+    This assignment involved updating CSS code so that it was consolidated 
+    and followed semantic structure. Updating the links so that they function 
+    properly. Adding comments. Creating a new repository and uploading the updated 
+    code. Created a readme file.
 
 #Screenshot
 
